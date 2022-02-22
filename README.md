@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **JavaScript.**
 
-- 👯 I’m looking forward to learn more on **Front-end web development**
-
 - 🙋‍♂️ Ask me about **Data Structures**.
 - ⚡ I like maths!
 
@@ -33,13 +31,8 @@
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<br/>
-<br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bedre7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
+![](https://komarev.com/ghpvc/?username=bedre7)
 
 ## contact me:
 
