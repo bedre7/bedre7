@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bedru</h1>
-<h2 align="center">A Computer Engineering student from Turkey.</h2>
+<h2 align="center">Computer Engineering student from Turkey.</h2>
 
 ## 🙋‍♂️ About Me
 
