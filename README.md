@@ -1,9 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Bedru<br>🌱 I’m currently learning Node js<br>👯 I’m looking to collaborate on web development<br>🔭 I’m currently working on backend development<br>💡 I am interested in web development, Algorithms, and Artificial Intelligence
 
----
-[![](https://visitcount.itsvg.in/api?id=bedre7&icon=5&color=0)](https://visitcount.itsvg.in)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bedru.umer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bedru-umer) 
 
