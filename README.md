@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Bedru<br>🌱 I’m currently learning Nest js<br>👯 I’m looking to collaborate on web development<br>🔭 I’m currently working on backend development<br>💡 I am interested in web development, Algorithms, and Artificial Intelligence
+👋 Hi, I'm Bedru<br>🌱 I’m currently learning Nest js<br>👯 I’m looking to collaborate on web development<br>🔭 I’m currently working on backend development<br>💡 I am interested in web development, Algorithms, and Distriubted systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bedru-umer) 
