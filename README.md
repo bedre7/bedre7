@@ -5,7 +5,7 @@ const me = {
   technologies: {
     frontend: ["React", "React Native", "Next.js", "CSS", "TailwindCSS"],
     backend: ["Node", "Express", "NestJS", "Flask"],
-    databases: ["MongoDB", "PostgreSQL", "Firestore"]
+    databases: ["MongoDB", "PostgreSQL", "Firestore"],
     tools: ["Git", "Docker", "GitHub Actions", "GCP", "AWS"],
   },
   interests: ["Web Development", "Distributed Systems", "Cloud Computing"],
