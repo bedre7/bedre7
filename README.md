@@ -1,7 +1,7 @@
 ```javascript
 const me = {
   name: "Bedru Umer",
-  languages: ["Python", "JavaScript", "TypeScript", "Java"],
+  languages: ["Python", "JavaScript", "TypeScript", "Java", "C#"],
   technologies: {
     frontend: ["React", "React Native", "Next.js", "CSS", "TailwindCSS"],
     backend: ["Node", "Express", "NestJS", "Flask"],
