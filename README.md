@@ -1,6 +1,5 @@
 ```javascript
-const me = {
-  name: "Bedru Umer",
+const skills = {
   languages: ["Python", "JavaScript", "TypeScript", "Java", "C#"],
   technologies: {
     frontend: ["React", "React Native", "Next.js", "CSS", "TailwindCSS"],
