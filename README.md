@@ -1,5 +1,5 @@
 ```javascript
-const skills = {
+const about = {
   languages: ["Python", "JavaScript", "TypeScript", "Java", "C#"],
   technologies: {
     frontend: ["React", "React Native", "Next.js", "CSS", "TailwindCSS"],
