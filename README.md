@@ -1,15 +1,25 @@
-```javascript
-const me = {
+```TypeScript
+import { SoftwareEngineer } from "Careers";
+
+const me = new SoftwareEngineer({
   name: "Bedru Umer",
-  languages: ["Python", "JavaScript", "TypeScript", "Java", "C#"],
-  technologies: {
-    frontend: ["React", "React Native", "Next.js", "CSS", "TailwindCSS"],
-    backend: ["Node", "Express", "NestJS", "Flask"],
+  skills: {
+    languages: ["Python", "JavaScript", "TypeScript", "Java", "C#"],
+    frameworks: {
+      frontend: ["React", "React Native", "Next.js", "TailwindCSS"],
+      backend: ["Node", "Express", "NestJS", "Flask"],
+    },
     databases: ["MongoDB", "PostgreSQL", "Firestore"],
     tools: ["Git", "Docker", "GitHub Actions", "GCP", "AWS"],
   },
+  education: {
+    degree: "BSc in Computer Engineering",
+    institution: "Sakarya University",
+    year: 2024,
+  },
   interests: ["Web Development", "Distributed Systems", "Cloud Computing"],
-};
+}).build();
+
 ```
 
 ## 🌐 Socials:
