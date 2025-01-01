@@ -18,8 +18,7 @@ const me = new SoftwareEngineer({
     year: 2024,
   },
   interests: ["Web Development", "Distributed Systems", "Cloud Computing"],
-}).build();
-
+});
 ```
 
 ## 🌐 Socials:
