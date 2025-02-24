@@ -12,11 +12,6 @@ const me = new SoftwareEngineer({
     databases: ["MongoDB", "PostgreSQL", "Firestore"],
     tools: ["Git", "Docker", "GitHub Actions", "GCP", "AWS"],
   },
-  education: {
-    degree: "BSc in Computer Engineering",
-    institution: "Sakarya University",
-    year: 2024,
-  },
   interests: ["Web Development", "Distributed Systems", "Cloud Computing"],
 });
 ```
